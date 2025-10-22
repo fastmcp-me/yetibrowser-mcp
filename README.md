@@ -1,3 +1,10 @@
+[![Add to Cursor](https://fastmcp.me/badges/cursor_dark.svg)](https://fastmcp.me/MCP/Details/1334/yetibrowser)
+[![Add to VS Code](https://fastmcp.me/badges/vscode_dark.svg)](https://fastmcp.me/MCP/Details/1334/yetibrowser)
+[![Add to Claude](https://fastmcp.me/badges/claude_dark.svg)](https://fastmcp.me/MCP/Details/1334/yetibrowser)
+[![Add to ChatGPT](https://fastmcp.me/badges/chatgpt_dark.svg)](https://fastmcp.me/MCP/Details/1334/yetibrowser)
+[![Add to Codex](https://fastmcp.me/badges/codex_dark.svg)](https://fastmcp.me/MCP/Details/1334/yetibrowser)
+[![Add to Gemini](https://fastmcp.me/badges/gemini_dark.svg)](https://fastmcp.me/MCP/Details/1334/yetibrowser)
+
 # YetiBrowser MCP
 
 YetiBrowser MCP is a fully open-source implementation of the Browser MCP workflow. It links a Node-based MCP server with Chrome/Firefox extensions so Model Context Protocol clients—Codex/Claude Code, Cursor, Windsurf, MCP Inspector, or your own tools—can automate a real browser tab while keeping every byte on your machine and auditable.
